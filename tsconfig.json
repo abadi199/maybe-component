@@ -15,6 +15,14 @@
     "lib": [
       "es2017",
       "dom"
-    ]
+    ],
+    "paths": {
+      "@abadi99/maybe-component": [
+        "dist/abadi99/maybe-component"
+      ],
+      "@abadi99/maybe-component/*": [
+        "dist/abadi99/maybe-component/*"
+      ]
+    }
   }
 }
